@@ -18,7 +18,7 @@ you can find the backend on this https://github.com/setiawan1998/express_simple_
 ### `Installing`
 to install all dependencies use 
 ```
-npm start
+npm install
 ```
 or
 ```
